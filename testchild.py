@@ -4,3 +4,7 @@ print("Inside Child Branch")
 print("Added changes to Child Branch")
 # Adding code in Child branch1
 print("Added changes to Child Branch1")
+
+## Adding changes from Child2
+print("Added changes to Child Branch2")
+
